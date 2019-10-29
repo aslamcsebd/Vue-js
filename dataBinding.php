@@ -7,7 +7,7 @@
    <div id="abc">
       <p>Enter your name...</p>
       <input type="text" v-model="name">
-      <h2>My name is {{ name }}</h2>
+      <h2>My name is {{ name }} </h2>
    </div>
 
 <script type="text/javascript" src="vue.js"></script>
