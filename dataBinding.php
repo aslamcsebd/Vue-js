@@ -15,7 +15,7 @@
    var app=new Vue({
       el:"#abc",
       data:{
-         name: "Md Aslam" 
+         name: "" 
       }
    });
 </script>
