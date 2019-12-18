@@ -27,3 +27,40 @@ body{
 .close:hover{
    background: cyan;
 }
+
+/*----------model-----------*/
+/*component Communications & CustomEvents*/
+.model{
+   position: fixed;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   background: rgb(0,0,0,0.5);
+}
+
+.modelContent{
+   width: 560px;
+   background: #fff;
+   margin: auto;
+   margin-top: 120px;
+   color: #505050;
+}
+.modelHeader{
+   background: #efefef;
+   font-weight: bold;
+   padding: 16px 9px;
+   color: #505050;
+}
+.modelBody{
+   padding: 22px;
+   background: #fff;
+   min-height: 222px;
+}
+.modelFooter{
+   background: #D1D1D1;
+   font-weight: bold;
+   padding: 9px;
+   color: #505050;
+}
+
