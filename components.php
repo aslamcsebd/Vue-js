@@ -15,7 +15,7 @@
          </div>     
       </div>
 
-      <panel title="This is title">
+      <panel title="This is title" >
          <h2>Enter your name</h2>
          <input type="text" name="">
          <button>Submit</button>
