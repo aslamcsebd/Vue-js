@@ -11,13 +11,17 @@
             This is panel title [html way]
          </div>       
          <div class="panelContent">
-            This is panel content. This is panel content. This is panel content. This is panel content. This is panel content.
+            This is panel content.
+            This is panel content. 
+            This is panel content. 
+            This is panel content. 
+            This is panel content.
          </div>     
       </div>
 
       <panel title="This is title">
          <h2>Enter your name</h2>
-         <input type="text" name="">
+         <input type="text" name="" >
          <button>Submit</button>
       </panel>
    </div>
