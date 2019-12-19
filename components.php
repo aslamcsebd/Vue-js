@@ -15,7 +15,7 @@
          </div>     
       </div>
 
-      <panel title="This is title" >
+      <panel title="This is title">
          <h2>Enter your name</h2>
          <input type="text" name="">
          <button>Submit</button>
@@ -23,6 +23,7 @@
    </div>
 
 <script type="text/javascript" src="vue.js"></script>
+<script type="text/javascript" src="components.js"></script>
 <script type="text/javascript">
 
    Vue.component("panel", {
