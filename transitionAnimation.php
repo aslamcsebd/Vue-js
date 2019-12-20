@@ -5,7 +5,7 @@
    <link rel="stylesheet" type="text/css" href="style.css">
    <link rel="stylesheet" type="text/css" href="bootstrap-min.css">
    <style type="text/css">
-      .foo { background: gray; text-align: center; width: 960px; margin: 44px auto; min-height: 250px; }
+      .foo { background: gray; text-align: center; width: 960px; margin: 44px auto; min-height: 100px; }
       .fade-enter-active, .fade-leave-active { transition: margin-top 1s; }
       .fade-enter, .fade-leave-to { margin-top: -555px; }
       .bar-enter-active, .bar-leave-active { transition: transform 1s; }
